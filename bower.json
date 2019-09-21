@@ -9,5 +9,8 @@
     "tirebolu",
     "görele"
   ],
-  "homepage": "https://github.com/fkerim/ChatDad"
+  "homepage": "https://github.com/fkerim/ChatDad",
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
 }
